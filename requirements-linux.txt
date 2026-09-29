@@ -1,0 +1,12 @@
+# Qwen3-ASR-1.7B / Fun-ASR-Nano 的 ONNX/GGUF 推理依赖，Linux CPU。
+numpy>=1.26,<3
+sounddevice>=0.5,<0.6
+onnxruntime>=1.20,<2
+gguf==0.19.0
+scipy>=1.11,<2
+srt>=3.5,<4
+rich>=13,<15
+websockets>=12,<17
+pynput>=1.8,<1.9
+pypinyin>=0.53,<1
+watchdog>=6,<7
